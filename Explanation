@@ -1,0 +1,11 @@
+This is a food deleviery app before i started the project first i was thinking and developing in my mind all scenerio and written in noteboo that what i have done good for this project and 
+then i started firstly i created a backend api routes for the customers and restaurants for login and signup authentication and then i starrt working on a CRUD for create delete and update the data
+at this time it was ok and fine for me then i switch to frontend and started working on creating a boiler plate code and and install some dependencies and then i start creating a landing page and 
+then login and signup authentication for customer and restaurant and at this time difficulty was on not more but then when i head over to perform CRUD for the restaurant it seems some difficult but not that much
+facing some errors from axios and for the token but solve this then the big problem was coming now when i started over an customer components for customer dashboard after login at first it was easy to print the cards
+of all the items and all the restaurants then when i start working on cart i seems some more difficulty and facing issues because in props driling we have to pass the data from top to bottom and left to right
+but it was bottom to top as i want the data from cards and pass to navbar it was possible with the props adn local storage but not refreshing at that time and it seems very bad expreince for me for props driling then
+i left that part and after the part i have because i think all this thing possible with the help of REDUX but when i switch over to redux it takes me 10 days more days for learning and implementing in my project
+soo i left there because Redux was also not done in class and and i dont know much about it so that i can implement in my project.
+Thats all about my project although i face difficulty in props i think and i aslo get to know from this project that REDUX is good in cas on Props.
+Thankyou All...
